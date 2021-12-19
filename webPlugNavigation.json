@@ -578,7 +578,8 @@
       "name": "素白白(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
-      "ads": "id=6933",
+      "ads": "id=6933,支付宝",
+      "webUrl": "https://www.subaibai.com/",
       "webOpen": true,
       "click": true
     },
